@@ -88,7 +88,7 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![Output5](https://github.com/smriti1910/ex4_placementpredictionofstudents/assets/133334803/d8d06a82-f5d2-4877-a699-f16bfe69d2f8)
 ![Output6](https://github.com/smriti1910/ex4_placementpredictionofstudents/assets/133334803/5e068bcf-31ad-4e66-b283-283203743a84)
 ![Output7](https://github.com/smriti1910/ex4_placementpredictionofstudents/assets/133334803/5d5c4941-da7a-49da-91de-05861e161966)
-
+![Output8](https://github.com/smriti1910/ex4_placementpredictionofstudents/assets/133334803/b61b1c8e-a878-483a-8616-d7204ad682f9)
 
 
 ## Result:
